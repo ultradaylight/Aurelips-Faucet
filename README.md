@@ -1,7 +1,7 @@
 # Aurelips Faucet 
-# Contract: 0x4330D40D7d8b394224D5382FB055e3b9018bb312
 
 ## Overview
+Contract: 0x4330D40D7d8b394224D5382FB055e3b9018bb312
 
 The **Aurelips Faucet Contract** is a decentralized smart contract deployed on the **PulseChain** blockchain. This contract allows users to claim **Aurelips (ALIPS)** tokens from the faucet, provided they meet certain criteria. Each claim results in a portion of the tokens being burned, contributing to deflationary tokenomics. The faucet is designed to prevent abuse by restricting users to a one-time claim per address.
 
