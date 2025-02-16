@@ -7,8 +7,6 @@ The **Aurelips Faucet Contract** is a decentralized smart contract deployed on t
 
 In addition to the basic claim functionality, the contract also includes an owner-only function that allows the recovery of any mistakenly sent ERC20 tokens from the contract.
 
-Claim Free Aurelips Tokens Here: https://scan.mypinata.cloud/ipfs/bafybeih3olry3is4e4lzm7rus5l3h6zrphcal5a7ayfkhzm5oivjro2cp4/#/address/0x4330D40D7d8b394224D5382FB055e3b9018bb312?tab=write_contract
-
 ## Features
 
 - **Claim ALIPS Tokens**: Eligible users can claim ALIPS tokens from the faucet.
@@ -16,6 +14,7 @@ Claim Free Aurelips Tokens Here: https://scan.mypinata.cloud/ipfs/bafybeih3olry3
 - **Token Burning**: A percentage of each claim is burned (sent to a specified burn address).
 - **One-Time Claim**: Users can only claim tokens once per address, preventing abuse.
 - **Owner Token Recovery**: The contract owner can withdraw mistakenly sent ERC20 tokens.
+- Claim Free Aurelips Tokens Here: https://scan.mypinata.cloud/ipfs/bafybeih3olry3is4e4lzm7rus5l3h6zrphcal5a7ayfkhzm5oivjro2cp4/#/address/0x4330D40D7d8b394224D5382FB055e3b9018bb312?tab=write_contract
 
 ## Contract Functions
 
