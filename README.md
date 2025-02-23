@@ -1,5 +1,7 @@
 # Aurelips Faucet 
 
+Claim free ALIPS tokens here: https://ipfs.io/ipfs/bafybeihj57jfa6wtd422mq2xoqfviqkrwf6pevpqhmwtwqdhefnsinazgy 
+
 ## Overview
 Contract: 0x4330D40D7d8b394224D5382FB055e3b9018bb312
 
@@ -14,7 +16,7 @@ In addition to the basic claim functionality, the contract also includes an owne
 - **Token Burning**: A percentage of each claim is burned (sent to a specified burn address).
 - **One-Time Claim**: Users can only claim tokens once per address, preventing abuse.
 - **Owner Token Recovery**: The contract owner can withdraw mistakenly sent ERC20 tokens.
-- Claim Free Aurelips Tokens Here: https://scan.mypinata.cloud/ipfs/bafybeih3olry3is4e4lzm7rus5l3h6zrphcal5a7ayfkhzm5oivjro2cp4/#/address/0x4330D40D7d8b394224D5382FB055e3b9018bb312?tab=write_contract
+- Claim Free Aurelips Tokens From Contract Here: https://scan.mypinata.cloud/ipfs/bafybeih3olry3is4e4lzm7rus5l3h6zrphcal5a7ayfkhzm5oivjro2cp4/#/address/0x4330D40D7d8b394224D5382FB055e3b9018bb312?tab=write_contract
 
 ## Contract Functions
 
