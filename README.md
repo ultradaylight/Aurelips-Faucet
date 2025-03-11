@@ -1,9 +1,9 @@
 # Aurelips Faucet 
 
-Claim free ALIPS tokens here: https://ipfs.io/ipfs/bafybeihj57jfa6wtd422mq2xoqfviqkrwf6pevpqhmwtwqdhefnsinazgy 
+Claim free ALIPS tokens here: https://ipfs.io/ 
 
 ## Overview
-Contract: 0x4330D40D7d8b394224D5382FB055e3b9018bb312
+Contract: 0xB621b1f27549aBA8dBc8Aa39a4F2345C23B632Ed
 
 The **Aurelips Faucet Contract** is a decentralized smart contract deployed on the **PulseChain** blockchain. This contract allows users to claim **Aurelips (ALIPS)** tokens from the faucet, provided they meet certain criteria. Each claim results in a portion of the tokens being burned, contributing to deflationary tokenomics. The faucet is designed to prevent abuse by restricting users to a one-time claim per address.
 
@@ -16,7 +16,7 @@ In addition to the basic claim functionality, the contract also includes an owne
 - **Token Burning**: A percentage of each claim is burned (sent to a specified burn address).
 - **One-Time Claim**: Users can only claim tokens once per address, preventing abuse.
 - **Owner Token Recovery**: The contract owner can withdraw mistakenly sent ERC20 tokens.
-- Claim Free Aurelips Tokens From Contract Here: https://scan.mypinata.cloud/ipfs/bafybeih3olry3is4e4lzm7rus5l3h6zrphcal5a7ayfkhzm5oivjro2cp4/#/address/0x4330D40D7d8b394224D5382FB055e3b9018bb312?tab=write_contract
+- Claim Free Aurelips Tokens From Contract Here: https://scan.mypinata.cloud/ipfs/bafybeih3olry3is4e4lzm7rus5l3h6zrphcal5a7ayfkhzm5oivjro2cp4/#/address/0xB621b1f27549aBA8dBc8Aa39a4F2345C23B632Ed?tab=write_contract
 
 ## Contract Functions
 
@@ -24,7 +24,7 @@ In addition to the basic claim functionality, the contract also includes an owne
    - **Description**: Allows eligible users to claim ALIPS tokens once per address.
    - **Eligibility Criteria**: 
      - Must hold at least 5,000 HEX tokens.
-   - **Burn Mechanism**: 10 ALIPS tokens are burned with each claim.
+   - **Burn Mechanism**: 100 ALIPS tokens are burned with each claim.
    - **Limits**: Users can only claim tokens once and will be marked as "claimed" after the first claim.
 
 ### 2. **withdrawMistakenlySentTokens(address token, uint256 amount)**
