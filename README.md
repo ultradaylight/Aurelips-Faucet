@@ -1,6 +1,6 @@
 # Aurelips Faucet 
 
-Claim free ALIPS tokens here: https://ipfs.io/ 
+Claim free ALIPS tokens here: https://ipfs.io/ipfs/bafybeidyxonlpcmmooag6sxex2ef7lyiwkwj56zsndgs5maz4j32qgdu7e/
 
 ## Overview
 Contract: 0xB621b1f27549aBA8dBc8Aa39a4F2345C23B632Ed
